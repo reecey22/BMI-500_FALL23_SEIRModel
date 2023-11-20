@@ -1,7 +1,7 @@
 # BMI-500_FALL23_SEIRModel
 
 Disclaimer:
-The code in this repository was Developed with assistance from ChatGPT by OpenAI
+Developed with assistance from ChatGPT by OpenAI:
 GPT-3.5 architecture was used for guidance in designing and implementing certain aspects of this code.
 OpenAI ChatGPT: https://www.openai.com
 
